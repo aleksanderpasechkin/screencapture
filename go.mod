@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802 // indirect
-	github.com/aleksanderpasechkin/Go-screencapture v0.0.0-20200310090833-23ae53b64681
+	github.com/aleksanderpasechkin/screencapture v0.0.0-20200310090833-23ae53b64681
 	github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5 // indirect
 	github.com/gorilla/mux v1.7.4
 	github.com/kbinani/screenshot v0.0.0-20191211154542-3a185f1ce18f
