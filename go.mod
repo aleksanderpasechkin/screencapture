@@ -11,5 +11,5 @@ require (
 	github.com/lxn/win v0.0.0-20191128105842-2da648fda5b4 // indirect
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646
 	github.com/pion/webrtc/v2 v2.2.3
-	github.com/poi5305/go-yuv2webRTC v2.1.18+incompatible
+	github.com/aleksanderpasechkin/screencapture v2.1.18+incompatible
 )
